@@ -1,0 +1,19 @@
+{
+  "name": "nordi-palki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/chookha/nordi-palki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chookha/nordi-palki/issues"
+  },
+  "homepage": "https://github.com/chookha/nordi-palki#readme"
+}
