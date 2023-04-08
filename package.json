@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chookha/nordi-palki/issues"
   },
-  "homepage": "https://github.com/chookha/nordi-palki#readme"
+  "homepage": "https://github.com/chookha/nordi-palki#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
 }
